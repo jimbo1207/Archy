@@ -1,5 +1,4 @@
 virtualbox-guest-utils
-amdgpu
 xf86-video-amdgpu
 vulkan-radeon
 libva-mesa-driver
